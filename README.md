@@ -1,8 +1,5 @@
 # Jobsheet-3
 
-Siti Salist Laely Surayah
-TE3B / 4.31.20.1.23
-
 A. ESP32 Wi-Fi Modes dan Wifi-Scan
 
 Buka Arduino IDE dan upload script program berikut ke ESP32 untuk melakukan scan jaringan Wi-Fi.
