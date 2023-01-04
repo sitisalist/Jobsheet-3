@@ -1,5 +1,15 @@
 # Jobsheet-3
 
+ALAT DAN BAHAN
+1) ESP32
+2) Breadboard
+3) Kabel jumper
+4) Sensor DHT 11, RFID
+5) LED (5) dan Push Button (3)
+6) Servo
+7) Resistor 330,1K, 10K Ohm (@ 3)
+
+
 A. ESP32 Wi-Fi Modes dan Wifi-Scan
 
 Buka Arduino IDE dan upload script program berikut ke ESP32 untuk melakukan scan jaringan Wi-Fi.
